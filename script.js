@@ -10,3 +10,5 @@ const income = document.getElementById('income')
 const amount = document.getElementById('amount')
 const inputs = document.querySelectorAll('input')
 const errorMsg = document.querySelector('.error-message')
+
+form.addEventListener('submit', addExpe)
