@@ -3,3 +3,4 @@ document.addEventListener('DOMContentLoaded', function () {
 })
 
 const form = document.querySelector('.add-form')
+const tBody = document.querySelector('tbody')
